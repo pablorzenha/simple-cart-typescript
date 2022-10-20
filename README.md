@@ -1,6 +1,6 @@
 ## 📕 About
 
-O TypeScript SimpleCart tem como objetivo mostrar algumas funcionalidades do TS.
+O TypeScript SimpleCart tem como objetivo mostrar algumas funcionalidades básicas do TS.
 
 ## 🔧 Tools
 
