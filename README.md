@@ -1,3 +1,37 @@
+## 📕 About
+
+O TypeScript SimpleCart tem como objetivo mostrar algumas funcionalidades do TS.
+
+## 🔧 Tools
+
+- [Node](https://nodejs.org/en/)
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [styled-components](https://styled-components.com/)
+
+## ♻ How Contribute
+
+```
+bash
+#clone the project
+$git clone git@github.com:pablorzenha/simple-cart-typescript.git
+```
+
+```
+bash
+#Enter directory
+$cd simple-cart-typescript
+
+```
+
+```
+bash
+# Install the dependencies
+$npm install
+or
+$yarn
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
